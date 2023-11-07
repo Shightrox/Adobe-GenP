@@ -4,7 +4,7 @@ October 17, 2023 - Software
 
 from https://www.cybermania.ws/software/adobe-genp/
 
-<image src="(https://i.ibb.co/kDqWzp1/image.png)" alt="GenP Screenshot">
+![GenP Screenshot](https://i.ibb.co/kDqWzp1/image.png)
 
 # How to use GenP:
 
